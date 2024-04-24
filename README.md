@@ -10,14 +10,14 @@
 1. Python
 2. VSCode
 3. Selenium
-4. Request
+4. Requests
 #### Selenium 安裝方法:
 ```python
 pip install selenium
 ```
-#### Request 安裝方法:
+#### Requests 安裝方法:
 ```python
-pip install request
+pip install requests
 ```
 
 ## 工作流程圖
