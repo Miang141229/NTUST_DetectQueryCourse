@@ -20,7 +20,7 @@ pip install requests
 ```
 
 ## 工作流程圖
-![image](https://github.com/Miang141229/NTUST_DetectQueryCourse/blob/main/image/%E6%B5%81%E7%A8%8B%E5%9C%96.png))
+<img src="https://github.com/Miang141229/NTUST_DetectQueryCourse/blob/main/image/%E6%B5%81%E7%A8%8B%E5%9C%96.png" width="650" />
 
 ## 需要自行調整的參數
 ```python
