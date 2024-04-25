@@ -2,7 +2,7 @@
 
 ## 警告
 ### **該程式並不是使用機器人在選課系統直接做加選，也請不要頻繁存取學校系統，後果自負。**
-![image](https://github.com/Miang141229/NTUST_DetectQueryCourse/blob/main/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-04-24%20232022-1.jpg)
+![image](https://github.com/Miang141229/NTUST_DetectQueryCourse/blob/main/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-04-24%20232022.png)
 #### 該程式是自行參考網路教學寫出，一定有很多能夠精簡的地方，寫得不好的地方還請見諒，祝各位都能選到想的課。
 
 ## 前置作業
