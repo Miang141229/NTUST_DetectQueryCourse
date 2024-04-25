@@ -32,7 +32,7 @@ wd = webdriver.Edge(service=Service(r"C:\Users\User\OneDrive\桌面\Selenium\mse
 token = '*****'     #請輸入Line API中的Token
 ```
 #### Driver如何下載
-##### 到這邊選擇正確的版本下載
+##### 到這邊選擇正確的版本下載並解壓縮
 <https://developer.microsoft.com/zh-tw/microsoft-edge/tools/webdriver?form=MA13LH>
 
 #### LINE API Token如何取得
